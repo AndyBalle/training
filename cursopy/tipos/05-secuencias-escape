@@ -1,0 +1,9 @@
+# \""
+# \'
+# \\  introduce un backslash en la palabra
+# \n  salto de renglon
+
+curso = 'Ultimate "Python"'  # se cambian las comillas doble por sensillas
+curso = "Ultimate \n Python\""
+print(curso)
+
